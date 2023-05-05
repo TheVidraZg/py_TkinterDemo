@@ -1,18 +1,20 @@
+
+
 TITLE_PADX = 5
-TITLE_PADY = (20 , 10)
-TITLE_FONT = ('Vedrana', 18)
+TITLE_PADY = (30,30)
+TITLE_FONT = ('Verdana', 18)
 
 SUBTITLE_PADX = 5
-SUBTITLE_PADY =(20, 10)
-SUBTITLE_FONT =('Times New Roman', 18)
+SUBTITLE_PADY = (20,10)
+SUBTITLE_FONT = ('Verdana', 16)
 
 BODY_PADX = 10
-BODY_PADY = (5, 5)
-BODY_FONT = ('Vedrana', 18)
+BODY_PADY = (5,5)
+BODY_FONT = ('Verdana', 12)
 
 BTN_PADX = (10, 0)
-BTN_LASTPADX = (10, 10)
-BTN_PADY = 20
-BTN_FONT = ('Vedrana', 12)
-BTN_IPADY = 10
+BTN_LAST_PADX = (10, 10)
 BTN_IPADX = 10
+BTN_PADY = 20
+BTN_IPADY = 10
+BTN_FONT = ('Verdana', 12)
